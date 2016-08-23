@@ -3,6 +3,7 @@ import "fmt"
 
 func main() {
 
- fmt.Println("test ifconfig")
+ fmt.Println("test config")
+ fmt.Println("add new ifconfig")
  
  }
